@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/flight/static/css/main.b907c626.chunk.css",
+    "main.js": "/flight/static/js/main.015aec19.chunk.js",
+    "main.js.map": "/flight/static/js/main.015aec19.chunk.js.map",
+    "runtime-main.js": "/flight/static/js/runtime-main.9a6ed14d.js",
+    "runtime-main.js.map": "/flight/static/js/runtime-main.9a6ed14d.js.map",
+    "static/css/2.9ee9c571.chunk.css": "/flight/static/css/2.9ee9c571.chunk.css",
+    "static/js/2.ef0b2845.chunk.js": "/flight/static/js/2.ef0b2845.chunk.js",
+    "static/js/2.ef0b2845.chunk.js.map": "/flight/static/js/2.ef0b2845.chunk.js.map",
+    "index.html": "/flight/index.html",
+    "static/css/2.9ee9c571.chunk.css.map": "/flight/static/css/2.9ee9c571.chunk.css.map",
+    "static/css/main.b907c626.chunk.css.map": "/flight/static/css/main.b907c626.chunk.css.map",
+    "static/js/2.ef0b2845.chunk.js.LICENSE.txt": "/flight/static/js/2.ef0b2845.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/flight/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/style.css": "/flight/static/media/headerbg.166104ae.jpg",
+    "static/media/mountain (1).148e6be9.jpg": "/flight/static/media/mountain (1).148e6be9.jpg",
+    "static/media/mountain (2).c8ef4693.jpg": "/flight/static/media/mountain (2).c8ef4693.jpg",
+    "static/media/mountain (3).166104ae.jpg": "/flight/static/media/mountain (3).166104ae.jpg",
+    "static/media/mountain (4).241c78b7.jpg": "/flight/static/media/mountain (4).241c78b7.jpg",
+    "static/media/samplevideo2.a4f88419.mp4": "/flight/static/media/samplevideo2.a4f88419.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a6ed14d.js",
+    "static/css/2.9ee9c571.chunk.css",
+    "static/js/2.ef0b2845.chunk.js",
+    "static/css/main.b907c626.chunk.css",
+    "static/js/main.015aec19.chunk.js"
+  ]
+}
